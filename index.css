@@ -1,0 +1,22 @@
+body {
+    background-color: white;
+}
+
+form {
+    background-color: white;
+    width: 25%;
+    margin: 120px auto;
+    
+    padding: 30px;
+    border-radius: 6px;
+    justify-content: center;
+}
+
+form h1 {
+    
+    margin-top: 5px;
+}
+
+#btn {
+  justify-content: right;
+}
